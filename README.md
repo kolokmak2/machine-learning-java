@@ -1,2 +1,2 @@
-# maching-learning-java
+# machine-learning-java
 self learning
